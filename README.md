@@ -15,7 +15,7 @@ My mission is to make artificial intelligence accessible,democratic, trustworthy
 - 🌍 Contributing to and supporting open-source projects to foster a collaborative tech ecosystem
 
 📚 **Interests:**
-- Research Deep generative modeling 
+- Deep generative modeling 
 - Computational Neuroscience
 - Healthcare Tech Innovation
 - Research in Quantum Generative Modeling
